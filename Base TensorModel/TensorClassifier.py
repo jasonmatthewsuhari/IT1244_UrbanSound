@@ -11,7 +11,7 @@ from tensorflow.image import resize
 from tensorflow.keras.models import load_model
 
 # Step 1: Define your folder structure
-data_dir = 'data/Train'
+data_dir = 'Train'
 classes = ['air', 'car','engine','street','children','dog','gun','jackhammer','siren','drilling']
 #filename.split("_")[3].split(".")[0]
 # Step 2: Load and preprocess audio data
