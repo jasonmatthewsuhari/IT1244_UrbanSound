@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "it1244urbansound-418805",
+  "private_key_id": "8ab6d5d2d2fd676c21a73204ea14950be6f56076",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpizhN71jcJIaj\nXEC51DN1nccrFCedPd7RbZyJ5k2+cB6jhGQkWLSb4g7DTHZOuYSyCfa5IOfYN3VG\n8zXGGKdmBCHX5bMaLGpMr/Uc0M2gAiP92aMGcIQ4uFzShq9XC/ikKpqQt4dvjSX8\ntX9X1IVERK+bIwuOp8B7lRgP0EU2yb0ROM+Oqg1UDFdSkxeNO0sAQSZuy4FiVMsC\niaf88Am+3BSY+vhc7wto4/10FSITWN8LtkSNxDApfKsCD0wCRFvGKNuNIBm71Hwq\nqNIta2XEdJxOWsm2AeD1gPY6KHDnov3wNi684BwsynPk4LiIa61zWdkXHFhAyaJU\ni0jdFC1nAgMBAAECggEAAxTDni72V3HWfIuFpZrkoIOQhgjku2fPb9DlImBsE0To\nWaJjS4HNLnQKPqRaFg4rCi1CLZUagYRofjSXSpVSHXl/v/OtsJEUEXa1JqPoyLqh\nOtDEtK5AyOMY1L6b2yIdj6YyjuS28mEHSrNlsAvtrBLvegtF/36u8dAA0vC/AULb\np5sxkKan0op+Wy2z0/NEwf4fKx5C8Zcxo9pFipD+TKl1EfVd+h5/lCH0zupr/UY7\nuCEy5NhOddOWy6FwCrDx9JGr5hxO8/UXa/j1QPasfZFqQCsrbkCc7lxJ8MH33xiR\n+d/l55fINcLtC3soNFqM2Ib6FHdrT6K+g7zG2hEg0QKBgQDuaeMf3u56scugBYjs\njHlLo2PxlGyELM1qn0cI0Y/R3ZvNVMZUeyVcLE2jxRrlQRZQPFGApDg3Npa200q2\nF8neyrB22a8+xFuqNXAU7MC01g81X727yVjY3l1/9qINf+cXGSBvX05aTRI2817z\n/ldOknKpT3qcGd7HemKi9xXA6QKBgQC2DNJRW9tIb3UvT5tBN4xS650eO28YwP+y\nRZ3jjpDTJQLckGrR/aDo694noPTiZQUVt8RpMie+BnKcAgJYafGk2gTd+h0DUb1O\nZcV62fA8YPt5E7Vt6hJQv2S9nZtRVgN2iwV1iKAzdpUHVaDJlplhAucOXjOEChpT\nVUKHn+0JzwKBgBOsaTGYE9XMFiF+U24xqVC0iurEdK/zgn/p5NK1eEi5IMIw3Kzb\n/Jk+jqmU+kMwu8ajM5aJ9pmXx5gOl3uvOtlHoIguLmffjDDfeABCCSTjBR5CaEW2\nt74tm0mT8ItsooUlbafDFZQeCALA0nUP5+Rz8UJHbLa0681KLBmGiiUBAoGAewm9\nV1lSoekadShDUNd/EkfFf7pBgqRl7BGa/UHMZbe88F72owfcqa9IDNZ+y0flIOF7\ncHGCZK6s5P2CokiwFW94HKI+25Bx9jtYNYh4EgalzxXf5/JsAIDqUDDl2Rnd609Y\nGDCHvWBmpndb3QLYlLVGffJytMmzMyELfug6ZwcCgYAiXNGNP2FFiXtse1a2VFEH\nXp+2gSKlZsix7vrNEjJ5XHm0QaqAuz31j43lWZb7UImqs1EeZuoqKafk2R8Kb8IU\nDoXoAAvvStKnhjcPim/LVkkxb94tZIwd4J35Lz2DWXdavvUj8CavTODAYc7GrXDK\nD2I657of9m2gFumfCwUYow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jason-service@it1244urbansound-418805.iam.gserviceaccount.com",
+  "client_id": "104714744270837679463",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jason-service%40it1244urbansound-418805.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
