@@ -1,0 +1,13 @@
+scipy
+pandas
+numpy
+matplotlib
+IPython
+librosa
+soundfile
+tensorflow
+setuptools
+pydrive
+io
+wave
+google-auth-oauthlib
